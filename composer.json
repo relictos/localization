@@ -25,6 +25,5 @@
         "psr-0": {
             "Mcamara\\LaravelLocalization": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
